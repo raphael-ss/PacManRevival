@@ -28,3 +28,43 @@ void AtualizaPosicao(tPosicao* posicaoAtual, tPosicao* posicaoNova){
     *posicaoAtual = *posicaoNova;
     return;
 }
+
+/**
+ * Verifica se 2 posição são iguais
+ * \param posicao1 posição 1
+ * \param posicao2 posição 2
+ */
+bool SaoIguaisPosicao(tPosicao* posicao1, tPosicao* posicao2) {
+    if ((ObtemColunaPosicao(posicao1) == ObtemColunaPosicao(posicao2)) && (ObtemLinhaPosicao(posicao1) == ObtemLinhaPosicao(posicao2))) {
+        return true;
+    }
+    return false;
+}
+
+/**
+ * Libera o espaço alocado para a estrutura tPosicao
+ * 
+ * \param posicao posicao
+ */
+void DesalocaPosicao(tPosicao* posicao) {
+    free(posicao);
+    return;
+}
+
+/**
+ * Clona a posição (construtor de cópia)
+ * \param posicao posição
+ */
+tPosicao* ClonaPosicao(tPosicao* posicao) {
+    tPosicao copia = *posicao;
+    return &copia;
+}
+
+/**
+ * Cria a posição dinamicamente
+ * \param linha linha da posição
+ * \param coluna coluna da posição
+ */
+tPosicao* CriaPosicao(int linha, int coluna) {
+    
+}
