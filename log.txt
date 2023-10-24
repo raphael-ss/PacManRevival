@@ -1,0 +1,1938 @@
+Rodando o script do Aluno - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+#######################################
+ALUNO: Raphael
+#######################################
+CRIANDO O DIRETÓRIO DE RESULTADO PARA Raphael:
+ - Diretório Resultados/Raphael criado com sucesso!
+ - Diretório Resultados/Raphael/tPacman criado com sucesso!
+ - Diretório Resultados/Raphael/tMapa criado com sucesso!
+ - Diretório Resultados/Raphael/tMovimento criado com sucesso!
+ - Diretório Resultados/Raphael/tTunel criado com sucesso!
+ - Diretório Resultados/Raphael/tPosicao criado com sucesso!
+ - Diretório Resultados/Raphael/completo criado com sucesso!
+ - Diretório Resultados/Raphael/main criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/Raphael/tPacman.c' não encontrado!
+ - Arquivo esperado 'Respostas/Raphael/tPacman.h' não encontrado!
+ - Arquivo esperado 'Respostas/Raphael/tMapa.c' não encontrado!
+ - Arquivo esperado 'Respostas/Raphael/tMapa.h' não encontrado!
+ - Arquivo esperado 'Respostas/Raphael/tMovimento.c' encontrado!
+ - Arquivo esperado 'Respostas/Raphael/tMovimento.h' encontrado!
+ - Arquivo esperado 'Respostas/Raphael/tTunel.c' encontrado!
+ - Arquivo esperado 'Respostas/Raphael/tTunel.h' encontrado!
+ - Arquivo esperado 'Respostas/Raphael/tPosicao.c' encontrado!
+ - Arquivo esperado 'Respostas/Raphael/tPosicao.h' encontrado!
+ - Arquivo esperado 'Respostas/Raphael/main.c' não encontrado!
+ - Arquivos esperados enviados: Faltando!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta tPacman:
+ - Copiando os Casos de teste para a pasta Resultados/Raphael/tPacman
+ - Copiando os 'Includes/*.h' do professor para a pasta Resultados/Raphael/tPacman
+ - Copiando os 'Respostas/Raphael/src_file_name.h' do aluno para a pasta Resultados/Raphael/tPacman
+ - Copiando os 'Respostas/Raphael/src_file_name.c' do aluno para a pasta Resultados/Raphael/tPacman
+ - Pasta tMapa:
+ - Copiando os Casos de teste para a pasta Resultados/Raphael/tMapa
+ - Copiando os 'Includes/*.h' do professor para a pasta Resultados/Raphael/tMapa
+ - Copiando os 'Respostas/Raphael/src_file_name.h' do aluno para a pasta Resultados/Raphael/tMapa
+ - Copiando os 'Respostas/Raphael/src_file_name.c' do aluno para a pasta Resultados/Raphael/tMapa
+ - Pasta tMovimento:
+ - Copiando os Casos de teste para a pasta Resultados/Raphael/tMovimento
+ - Copiando os 'Includes/*.h' do professor para a pasta Resultados/Raphael/tMovimento
+ - Copiando os 'Respostas/Raphael/src_file_name.h' do aluno para a pasta Resultados/Raphael/tMovimento
+ - Copiando os 'Respostas/Raphael/src_file_name.c' do aluno para a pasta Resultados/Raphael/tMovimento
+ - Pasta tTunel:
+ - Copiando os Casos de teste para a pasta Resultados/Raphael/tTunel
+ - Copiando os 'Includes/*.h' do professor para a pasta Resultados/Raphael/tTunel
+ - Copiando os 'Respostas/Raphael/src_file_name.h' do aluno para a pasta Resultados/Raphael/tTunel
+ - Copiando os 'Respostas/Raphael/src_file_name.c' do aluno para a pasta Resultados/Raphael/tTunel
+ - Pasta tPosicao:
+ - Copiando os Casos de teste para a pasta Resultados/Raphael/tPosicao
+ - Copiando os 'Includes/*.h' do professor para a pasta Resultados/Raphael/tPosicao
+ - Copiando os 'Respostas/Raphael/src_file_name.h' do aluno para a pasta Resultados/Raphael/tPosicao
+ - Copiando os 'Respostas/Raphael/src_file_name.c' do aluno para a pasta Resultados/Raphael/tPosicao
+ - Pasta completo:
+ - Copiando os Casos de teste para a pasta Resultados/Raphael/completo
+ - Copiando os 'Respostas/Raphael/*.h' do aluno para a pasta Resultados/Raphael/completo
+ - Copiando os 'Respostas/Raphael/*.c' do aluno para a pasta Resultados/Raphael/completo
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/Raphael/main
+ - Copiando os 'Includes/*.h' do professor para a pasta Resultados/Raphael/main
+ - Copiando os 'Respostas/Raphael/*.h' do aluno para a pasta Resultados/Raphael/main
+ - Copiando os 'Respostas/Raphael/*.c' do aluno para a pasta Resultados/Raphael/main
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Erro de compilação! Verifique os arquivos da pasta tPacman.
+ - Erro de compilação! Verifique os arquivos da pasta tMapa.
+ - Arquivos Compilados: Erro!: 2 arquivos com erros de compilacao.
+ - Copiando os arquivos objetos do professor para cada subpasta do Resultado do Raphael:
+ - Copiando o Gabarito-obj/tPacman.o para a pasta Resultados/Raphael/tMapa
+ - Copiando o Gabarito-obj/tPacman.o para a pasta Resultados/Raphael/tMovimento
+ - Copiando o Gabarito-obj/tPacman.o para a pasta Resultados/Raphael/tTunel
+ - Copiando o Gabarito-obj/tPacman.o para a pasta Resultados/Raphael/tPosicao
+ - Copiando o Gabarito-obj/tPacman.o para a pasta Resultados/Raphael/main
+ - Copiando o Gabarito-obj/tMapa.o para a pasta Resultados/Raphael/tPacman
+ - Copiando o Gabarito-obj/tMapa.o para a pasta Resultados/Raphael/tMovimento
+ - Copiando o Gabarito-obj/tMapa.o para a pasta Resultados/Raphael/tTunel
+ - Copiando o Gabarito-obj/tMapa.o para a pasta Resultados/Raphael/tPosicao
+ - Copiando o Gabarito-obj/tMapa.o para a pasta Resultados/Raphael/main
+ - Copiando o Gabarito-obj/tMovimento.o para a pasta Resultados/Raphael/tPacman
+ - Copiando o Gabarito-obj/tMovimento.o para a pasta Resultados/Raphael/tMapa
+ - Copiando o Gabarito-obj/tMovimento.o para a pasta Resultados/Raphael/tTunel
+ - Copiando o Gabarito-obj/tMovimento.o para a pasta Resultados/Raphael/tPosicao
+ - Copiando o Gabarito-obj/tMovimento.o para a pasta Resultados/Raphael/main
+ - Copiando o Gabarito-obj/tTunel.o para a pasta Resultados/Raphael/tPacman
+ - Copiando o Gabarito-obj/tTunel.o para a pasta Resultados/Raphael/tMapa
+ - Copiando o Gabarito-obj/tTunel.o para a pasta Resultados/Raphael/tMovimento
+ - Copiando o Gabarito-obj/tTunel.o para a pasta Resultados/Raphael/tPosicao
+ - Copiando o Gabarito-obj/tTunel.o para a pasta Resultados/Raphael/main
+ - Copiando o Gabarito-obj/tPosicao.o para a pasta Resultados/Raphael/tPacman
+ - Copiando o Gabarito-obj/tPosicao.o para a pasta Resultados/Raphael/tMapa
+ - Copiando o Gabarito-obj/tPosicao.o para a pasta Resultados/Raphael/tMovimento
+ - Copiando o Gabarito-obj/tPosicao.o para a pasta Resultados/Raphael/tTunel
+ - Copiando o Gabarito-obj/tPosicao.o para a pasta Resultados/Raphael/main
+ - Copiando o Gabarito-obj/main.o para a pasta Resultados/Raphael/tPacman
+ - Copiando o Gabarito-obj/main.o para a pasta Resultados/Raphael/tMapa
+ - Copiando o Gabarito-obj/main.o para a pasta Resultados/Raphael/tMovimento
+ - Copiando o Gabarito-obj/main.o para a pasta Resultados/Raphael/tTunel
+ - Copiando o Gabarito-obj/main.o para a pasta Resultados/Raphael/tPosicao
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta tPacman:
+ - Gerando o binário prog linkando com o(s) arquivo(s) tPacman/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Raphael/tPacman/result_linking.txt
+ - Pasta tMapa:
+ - Gerando o binário prog linkando com o(s) arquivo(s) tMapa/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Raphael/tMapa/result_linking.txt
+ - Pasta tMovimento:
+ - Gerando o binário prog linkando com o(s) arquivo(s) tMovimento/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/result_linking.txt
+ - Pasta tTunel:
+ - Gerando o binário prog linkando com o(s) arquivo(s) tTunel/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/result_linking.txt
+ - Pasta tPosicao:
+ - Gerando o binário prog linkando com o(s) arquivo(s) tPosicao/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/result_linking.txt
+ - Pasta completo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) completo/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Raphael/completo/result_linking.txt
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Erro! Binário prog não gerado.
+ - Arquivo de output gerado: Resultados/Raphael/main/result_linking.txt
+ - Arquivos Linkados: Erro! 4 arquivos com erros de linkagem.
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta tPacman / Caso 01:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/01/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/01/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/01/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/01/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/01/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 02:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/02/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/02/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/02/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/02/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/02/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 03:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/03/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/03/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/03/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/03/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/03/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 04:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/04/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/04/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/04/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/04/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/04/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 05:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/05/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/05/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/05/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/05/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/05/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 06:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/06/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/06/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/06/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/06/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/06/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 07:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/07/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/07/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/07/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/07/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/07/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 08:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/08/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/08/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/08/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/08/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/08/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 09:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/09/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/09/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/09/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/09/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/09/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 10:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/10/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/10/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/10/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/10/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/10/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 11:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/11/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/11/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/11/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/11/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/11/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 12:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/12/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/12/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/12/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/12/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/12/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 13:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/13/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/13/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/13/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/13/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/13/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 14:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/14/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/14/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/14/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/14/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/14/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 15:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/15/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/15/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/15/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/15/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/15/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 16:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/16/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/16/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/16/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/16/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/16/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 17:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/17/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/17/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/17/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/17/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/17/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 18:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/18/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/18/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/18/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/18/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/18/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 19:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/19/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/19/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/19/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/19/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/19/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 20:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/20/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/20/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/20/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/20/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/20/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 21:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/21/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/21/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/21/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/21/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/21/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 22:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/22/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/22/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/22/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/22/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/22/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 23:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/23/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/23/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/23/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/23/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/23/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 24:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/24/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/24/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/24/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/24/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/24/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 25:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/25/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/25/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/25/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/25/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/25/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 26:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/26/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/26/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/26/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/26/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/26/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 27:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/27/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/27/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/27/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/27/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/27/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 28:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/28/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/28/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/28/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/28/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/28/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 29:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/29/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/29/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/29/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/29/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/29/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tPacman / Caso 30:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/30/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/30/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/30/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/30/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tPacman/Casos/30/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 01:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/01/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/01/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/01/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/01/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/01/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 02:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/02/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/02/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/02/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/02/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/02/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 03:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/03/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/03/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/03/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/03/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/03/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 04:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/04/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/04/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/04/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/04/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/04/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 05:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/05/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/05/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/05/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/05/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/05/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 06:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/06/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/06/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/06/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/06/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/06/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 07:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/07/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/07/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/07/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/07/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/07/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 08:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/08/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/08/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/08/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/08/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/08/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 09:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/09/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/09/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/09/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/09/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/09/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 10:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/10/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/10/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/10/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/10/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/10/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 11:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/11/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/11/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/11/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/11/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/11/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 12:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/12/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/12/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/12/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/12/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/12/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 13:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/13/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/13/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/13/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/13/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/13/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 14:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/14/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/14/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/14/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/14/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/14/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 15:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/15/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/15/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/15/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/15/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/15/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 16:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/16/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/16/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/16/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/16/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/16/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 17:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/17/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/17/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/17/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/17/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/17/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 18:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/18/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/18/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/18/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/18/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/18/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 19:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/19/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/19/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/19/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/19/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/19/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 20:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/20/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/20/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/20/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/20/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/20/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 21:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/21/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/21/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/21/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/21/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/21/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 22:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/22/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/22/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/22/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/22/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/22/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 23:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/23/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/23/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/23/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/23/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/23/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 24:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/24/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/24/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/24/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/24/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/24/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 25:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/25/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/25/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/25/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/25/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/25/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 26:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/26/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/26/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/26/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/26/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/26/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 27:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/27/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/27/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/27/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/27/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/27/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 28:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/28/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/28/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/28/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/28/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/28/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 29:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/29/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/29/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/29/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/29/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/29/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMapa / Caso 30:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/30/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/30/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/30/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/30/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/tMapa/Casos/30/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta tMovimento / Caso 01:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/01/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 34,839, frees: 34,839, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 02:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/02/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 1,835, frees: 1,835, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 03:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/03/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 1,319,273, frees: 1,319,273, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 04:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/04/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 397,792, frees: 397,792, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 05:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/05/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 1,431,242, frees: 1,431,242, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 06:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/06/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 193,143, frees: 193,143, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 07:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/07/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 9,025, frees: 9,025, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 08:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/08/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 54,320, frees: 54,320, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 09:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/09/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 750,044, frees: 750,044, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 10:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/10/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 116,392, frees: 116,392, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 11:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/11/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 934,431, frees: 934,431, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 12:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/12/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 58,376, frees: 58,376, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 13:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/13/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 54,479, frees: 54,479, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 14:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/14/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 38,525, frees: 38,525, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 15:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/15/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 22,236, frees: 22,236, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 16:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/16/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 8,544, frees: 8,544, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 17:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/17/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 5,646, frees: 5,646, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 18:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/18/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15,610, frees: 15,610, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 19:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/19/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 59,022, frees: 59,022, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 20:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/20/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 42,509, frees: 42,509, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 21:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/21/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 11,156, frees: 11,156, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 22:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/22/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 33,550, frees: 33,550, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 23:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/23/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 34,635, frees: 34,635, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 24:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/24/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 21,166, frees: 21,166, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 25:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/25/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 135,118, frees: 135,118, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 26:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/26/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 76,006, frees: 76,006, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 27:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/27/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 9,344, frees: 9,344, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 28:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/28/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 78,359, frees: 78,359, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 29:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/29/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 79,390, frees: 79,390, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tMovimento / Caso 30:
+ - Arquivo de output gerado: Resultados/Raphael/tMovimento/Casos/30/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 110,669, frees: 110,669, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 01:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/01/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 34,839, frees: 34,839, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 02:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/02/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 1,835, frees: 1,835, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 03:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/03/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 1,319,273, frees: 1,319,273, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 04:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/04/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 397,792, frees: 397,792, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 05:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/05/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 1,431,242, frees: 1,431,242, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 06:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/06/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 193,143, frees: 193,143, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 07:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/07/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 9,025, frees: 9,025, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 08:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/08/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 54,320, frees: 54,320, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 09:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/09/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 750,044, frees: 750,044, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 10:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/10/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 116,392, frees: 116,392, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 11:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/11/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 934,431, frees: 934,431, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 12:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/12/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 58,376, frees: 58,376, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 13:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/13/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 54,479, frees: 54,479, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 14:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/14/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 38,525, frees: 38,525, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 15:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/15/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 22,236, frees: 22,236, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 16:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/16/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 8,544, frees: 8,544, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 17:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/17/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 5,646, frees: 5,646, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 18:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/18/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15,610, frees: 15,610, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 19:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/19/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 59,022, frees: 59,022, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 20:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/20/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 42,509, frees: 42,509, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 21:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/21/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 11,156, frees: 11,156, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 22:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/22/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 33,550, frees: 33,550, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 23:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/23/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 34,635, frees: 34,635, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 24:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/24/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 21,166, frees: 21,166, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 25:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/25/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 135,118, frees: 135,118, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 26:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/26/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 76,006, frees: 76,006, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 27:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/27/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 9,344, frees: 9,344, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 28:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/28/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 78,359, frees: 78,359, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 29:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/29/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 79,390, frees: 79,390, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tTunel / Caso 30:
+ - Arquivo de output gerado: Resultados/Raphael/tTunel/Casos/30/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 110,669, frees: 110,669, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 01:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/01/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 34,839, frees: 34,839, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 02:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/02/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 1,835, frees: 1,835, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 03:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/03/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 1,319,273, frees: 1,319,273, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 04:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/04/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 397,792, frees: 397,792, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 05:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/05/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 1,431,242, frees: 1,431,242, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 06:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/06/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 193,143, frees: 193,143, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 07:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/07/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 9,025, frees: 9,025, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 08:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/08/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 54,320, frees: 54,320, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 09:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/09/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 750,044, frees: 750,044, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 10:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/10/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 116,392, frees: 116,392, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 11:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/11/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 934,431, frees: 934,431, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 12:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/12/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 58,376, frees: 58,376, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 13:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/13/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 54,479, frees: 54,479, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 14:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/14/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 38,525, frees: 38,525, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 15:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/15/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 22,236, frees: 22,236, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 16:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/16/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 8,544, frees: 8,544, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 17:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/17/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 5,646, frees: 5,646, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 18:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/18/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15,610, frees: 15,610, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 19:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/19/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 59,022, frees: 59,022, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 20:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/20/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 42,509, frees: 42,509, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 21:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/21/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 11,156, frees: 11,156, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 22:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/22/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 33,550, frees: 33,550, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 23:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/23/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 34,635, frees: 34,635, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 24:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/24/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 21,166, frees: 21,166, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 25:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/25/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 135,118, frees: 135,118, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 26:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/26/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 76,006, frees: 76,006, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 27:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/27/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 9,344, frees: 9,344, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 28:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/28/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 78,359, frees: 78,359, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 29:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/29/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 79,390, frees: 79,390, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta tPosicao / Caso 30:
+ - Arquivo de output gerado: Resultados/Raphael/tPosicao/Casos/30/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 110,669, frees: 110,669, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o estatisticas.txt: Ok! Peso: 2.0
+ - Resultado para o inicializacao.txt: Ok! Peso: 1.2
+ - Resultado para o ranking.txt: Ok! Peso: 2.0
+ - Resultado para o resumo.txt: Ok! Peso: 1.2
+ - Resultado para o saida.txt: Ok! Peso: 1.8
+ - Resultado para o trilha.txt: Ok! Peso: 1.8
+ - Pasta completo / Caso 01:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/01/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/01/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/01/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/01/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/01/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 02:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/02/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/02/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/02/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/02/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/02/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 03:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/03/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/03/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/03/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/03/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/03/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 04:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/04/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/04/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/04/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/04/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/04/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 05:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/05/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/05/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/05/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/05/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/05/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 06:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/06/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/06/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/06/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/06/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/06/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 07:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/07/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/07/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/07/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/07/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/07/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 08:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/08/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/08/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/08/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/08/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/08/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 09:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/09/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/09/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/09/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/09/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/09/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 10:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/10/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/10/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/10/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/10/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/10/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 11:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/11/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/11/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/11/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/11/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/11/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 12:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/12/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/12/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/12/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/12/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/12/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 13:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/13/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/13/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/13/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/13/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/13/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 14:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/14/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/14/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/14/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/14/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/14/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 15:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/15/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/15/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/15/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/15/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/15/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 16:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/16/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/16/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/16/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/16/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/16/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 17:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/17/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/17/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/17/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/17/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/17/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 18:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/18/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/18/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/18/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/18/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/18/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 19:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/19/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/19/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/19/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/19/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/19/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 20:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/20/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/20/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/20/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/20/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/20/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 21:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/21/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/21/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/21/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/21/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/21/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 22:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/22/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/22/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/22/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/22/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/22/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 23:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/23/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/23/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/23/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/23/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/23/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 24:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/24/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/24/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/24/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/24/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/24/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 25:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/25/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/25/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/25/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/25/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/25/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 26:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/26/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/26/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/26/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/26/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/26/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 27:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/27/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/27/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/27/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/27/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/27/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 28:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/28/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/28/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/28/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/28/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/28/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 29:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/29/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/29/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/29/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/29/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/29/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta completo / Caso 30:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/30/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/30/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/30/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/30/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/completo/Casos/30/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 01:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/01/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/01/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/01/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/01/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/01/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 02:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/02/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/02/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/02/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/02/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/02/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 03:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/03/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/03/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/03/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/03/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/03/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 04:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/04/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/04/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/04/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/04/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/04/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 05:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/05/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/05/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/05/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/05/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/05/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 06:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/06/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/06/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/06/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/06/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/06/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 07:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/07/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/07/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/07/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/07/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/07/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 08:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/08/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/08/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/08/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/08/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/08/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 09:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/09/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/09/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/09/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/09/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/09/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 10:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/10/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/10/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/10/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/10/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/10/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 11:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/11/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/11/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/11/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/11/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/11/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 12:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/12/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/12/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/12/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/12/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/12/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 13:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/13/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/13/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/13/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/13/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/13/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 14:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/14/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/14/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/14/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/14/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/14/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 15:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/15/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/15/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/15/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/15/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/15/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 16:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/16/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/16/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/16/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/16/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/16/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 17:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/17/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/17/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/17/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/17/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/17/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 18:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/18/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/18/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/18/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/18/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/18/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 19:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/19/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/19/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/19/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/19/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/19/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 20:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/20/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/20/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/20/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/20/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/20/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 21:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/21/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/21/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/21/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/21/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/21/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 22:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/22/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/22/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/22/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/22/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/22/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 23:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/23/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/23/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/23/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/23/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/23/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 24:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/24/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/24/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/24/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/24/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/24/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 25:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/25/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/25/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/25/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/25/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/25/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 26:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/26/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/26/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/26/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/26/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/26/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 27:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/27/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/27/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/27/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/27/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/27/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 28:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/28/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/28/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/28/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/28/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/28/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 29:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/29/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/29/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/29/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/29/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/29/saida/trilha.txt, considerando resultado incorreto!
+ - Pasta main / Caso 30:
+ - Valgrind: Incorreto! Verifique se o binário prog foi gerado corretamente. Ou se o Valgrind está instalado.
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/30/saida/estatisticas.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/30/saida/inicializacao.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/30/saida/ranking.txt, considerando resultado incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/30/saida/resumo.txt, considerando resultado incorreto!
+ - Resultado para o saida.txt: Incorreto!
+ - O aluno não gerou o arquivo de saída Resultados/Raphael/main/Casos/30/saida/trilha.txt, considerando resultado incorreto!
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Nome 0: Raphael
+ - Resumo dos Resultados:
+ - Resumo das Compilações: 5 compilações corretas de 7 no total
+ - Resumo das Linkagens: 3 linkagens corretas de 7 no total
+ - Valgrinds Corretos tPacman: 0 valgrinds corretos de 30 (teve desconto na nota para a pasta tPacman, olhar detalhamento nos prints acima!)
+ - Valgrinds Corretos tMapa: 0 valgrinds corretos de 30 (teve desconto na nota para a pasta tMapa, olhar detalhamento nos prints acima!)
+ - Valgrinds Corretos tMovimento: 30 valgrinds corretos de 30 (não teve desconto na nota)
+ - Valgrinds Corretos tTunel: 30 valgrinds corretos de 30 (não teve desconto na nota)
+ - Valgrinds Corretos tPosicao: 30 valgrinds corretos de 30 (não teve desconto na nota)
+ - Valgrinds Corretos completo: 0 valgrinds corretos de 30 (teve desconto na nota para a pasta completo, olhar detalhamento nos prints acima!)
+ - Valgrinds Corretos main: 0 valgrinds corretos de 30 (teve desconto na nota para a pasta main, olhar detalhamento nos prints acima!)
+ - Cômputo final das Notas:
+ - Pasta tPacman (peso 2.5): 0 resultados corretos de 180 / Nota 0
+ - Pasta tMapa (peso 2.5): 0 resultados corretos de 180 / Nota 0
+ - Pasta tMovimento (peso 1.0): 180 resultados corretos de 180 / Nota 1.00
+ - Pasta tTunel (peso 1.0): 180 resultados corretos de 180 / Nota 1.00
+ - Pasta tPosicao (peso 1.0): 180 resultados corretos de 180 / Nota 1.00
+ - Pasta completo (peso 1.0): 0 resultados corretos de 180 / Nota 0
+ - Pasta main (peso 1.0): 0 resultados corretos de 180 / Nota 0
+ - Nota Final Raphael: 3.00
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+
