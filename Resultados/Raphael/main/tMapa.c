@@ -52,23 +52,22 @@ void CriaInicializacao(tMapa* mapa, const char* caminhoConfig, tPosicao* pos){
  * Cria o mapa dinamicamente
  * \param caminho caminho do arquivo com as configurações do mapa
  */
-
-/*
-SEPARAR EM CRIA MAPA (ALOCAÇÃO), LE MAPA (RETORNA LINHAS E COLUNAS), CRIA INICIALIZACAO*/
-
 tMapa* CriaMapa(const char* caminhoConfig){
     char caminho_mapa[1000];
 
     tMapa* mapa = (tMapa*)malloc(sizeof(tMapa));
+    if (mapa == NULL) {
+        printf("Erro");
+        exit(1);
+    }
 
     sprintf(caminho_mapa, "%s/mapa.txt", caminhoConfig);
     FILE * pMapa;
     pMapa = fopen(caminho_mapa, "r");
     if (!pMapa) {
         printf("ERRO: nao foi possível ler o arquivo %s ", caminho_mapa);
-        return mapa;
+        exit(1);
     }
-
     fscanf(pMapa, "%d\n", mapa->nMaximoMovimentos);
     int linhas = 0, colunas = 0, tam_primeira_linha = 0;
     char item = '\0';
@@ -100,7 +99,6 @@ tMapa* CriaMapa(const char* caminhoConfig){
             fscanf(pMapa, "%c", mapa->grid[i][j]);
             if (mapa->grid[i][j] == '>') {
                 AtualizaPosicao(pos_inicial, CriaPosicao(i, j));
-                printf("aqui: %d %d", pos_inicial->linha, pos_inicial->coluna);
             }
         }
         // ESPAÇO

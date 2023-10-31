@@ -1,2 +1,69 @@
-cc1: fatal error: *.c: No such file or directory
-compilation terminated.
+tMapa.c: In function ‘CriaMapa’:
+tMapa.c:71:21: warning: format ‘%d’ expects argument of type ‘int *’, but argument 3 has type ‘int’ [-Wformat=]
+   71 |     fscanf(pMapa, "%d\n", mapa->nMaximoMovimentos);
+      |                    ~^     ~~~~~~~~~~~~~~~~~~~~~~~
+      |                     |         |
+      |                     int *     int
+tMapa.c:99:29: warning: format ‘%c’ expects argument of type ‘char *’, but argument 3 has type ‘int’ [-Wformat=]
+   99 |             fscanf(pMapa, "%c", mapa->grid[i][j]);
+      |                            ~^   ~~~~~~~~~~~~~~~~
+      |                             |                |
+      |                             char *           int
+tMapa.c: In function ‘ObtemPosicaoItemMapa’:
+tMapa.c:118:11: warning: implicit declaration of function ‘MapaExiste’ [-Wimplicit-function-declaration]
+  118 |     if (!(MapaExiste(mapa) && GridExiste(mapa))){
+      |           ^~~~~~~~~~
+tMapa.c:118:31: warning: implicit declaration of function ‘GridExiste’ [-Wimplicit-function-declaration]
+  118 |     if (!(MapaExiste(mapa) && GridExiste(mapa))){
+      |                               ^~~~~~~~~~
+tMapa.c: In function ‘PossuiTunelMapa’:
+tMapa.c:267:34: warning: comparison between pointer and integer
+  267 |             if (mapa->grid[i][j] == "@") {
+      |                                  ^~
+tMapa.c:267:34: warning: comparison with string literal results in unspecified behavior [-Waddress]
+tMapa.c: In function ‘AcessouTunelMapa’:
+tMapa.c:281:38: warning: comparison between pointer and integer
+  281 |     if (ObtemItemMapa(mapa, posicao) == "@"){
+      |                                      ^~
+tMapa.c:281:38: warning: comparison with string literal results in unspecified behavior [-Waddress]
+tMapa.c: At top level:
+tMapa.c:315:6: error: conflicting types for ‘MapaExiste’; have ‘_Bool(tMapa *)’
+  315 | bool MapaExiste(tMapa* mapa) {
+      |      ^~~~~~~~~~
+tMapa.c:118:11: note: previous implicit declaration of ‘MapaExiste’ with type ‘int()’
+  118 |     if (!(MapaExiste(mapa) && GridExiste(mapa))){
+      |           ^~~~~~~~~~
+tMapa.c:319:6: error: conflicting types for ‘GridExiste’; have ‘_Bool(tMapa *)’
+  319 | bool GridExiste(tMapa* mapa) {
+      |      ^~~~~~~~~~
+tMapa.c:118:31: note: previous implicit declaration of ‘GridExiste’ with type ‘int()’
+  118 |     if (!(MapaExiste(mapa) && GridExiste(mapa))){
+      |                               ^~~~~~~~~~
+tMapa.c: In function ‘ObtemPosicaoItemMapa’:
+tMapa.c:128:1: warning: control reaches end of non-void function [-Wreturn-type]
+  128 | }
+      | ^
+tMapa.c: In function ‘ObtemTunelMapa’:
+tMapa.c:155:1: warning: control reaches end of non-void function [-Wreturn-type]
+  155 | }
+      | ^
+tMapa.c: In function ‘ObtemItemMapa’:
+tMapa.c:170:1: warning: control reaches end of non-void function [-Wreturn-type]
+  170 | }
+      | ^
+tMapa.c: In function ‘ObtemNumeroLinhasMapa’:
+tMapa.c:181:1: warning: control reaches end of non-void function [-Wreturn-type]
+  181 | }
+      | ^
+tMapa.c: In function ‘ObtemNumeroColunasMapa’:
+tMapa.c:191:1: warning: control reaches end of non-void function [-Wreturn-type]
+  191 | }
+      | ^
+tMapa.c: In function ‘ObtemQuantidadeFrutasIniciaisMapa’:
+tMapa.c:201:1: warning: control reaches end of non-void function [-Wreturn-type]
+  201 | }
+      | ^
+tMapa.c: In function ‘ObtemNumeroMaximoMovimentosMapa’:
+tMapa.c:211:1: warning: control reaches end of non-void function [-Wreturn-type]
+  211 | }
+      | ^
