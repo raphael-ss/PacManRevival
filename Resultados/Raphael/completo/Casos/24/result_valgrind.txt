@@ -1,0 +1,51 @@
+==2330431== Memcheck, a memory error detector
+==2330431== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==2330431== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==2330431== Command: Resultados/Raphael/completo/prog Resultados/Raphael/completo/Casos/24
+==2330431== Parent PID: 2330430
+==2330431== 
+==2330431== Invalid read of size 4
+==2330431==    at 0x10D0DC: ObtemColunaPosicao (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x10BC0C: AtualizaItemMapa (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x10A715: CriaJogo (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x1093E9: main (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==  Address 0x4a978d4 is 4 bytes inside a block of size 8 free'd
+==2330431==    at 0x484B27F: free (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==2330431==    by 0x10D19D: DesalocaPosicao (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x10BFD9: CriaPacman (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x10A61C: CriaJogo (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x1093E9: main (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==  Block was alloc'd at
+==2330431==    at 0x4848899: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==2330431==    by 0x10D047: CriaPosicao (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x10B94A: ObtemPosicaoItemMapa (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x10A60C: CriaJogo (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x1093E9: main (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431== 
+==2330431== Invalid read of size 4
+==2330431==    at 0x10D0BA: ObtemLinhaPosicao (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x10BC1B: AtualizaItemMapa (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x10A715: CriaJogo (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x1093E9: main (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==  Address 0x4a978d0 is 0 bytes inside a block of size 8 free'd
+==2330431==    at 0x484B27F: free (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==2330431==    by 0x10D19D: DesalocaPosicao (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x10BFD9: CriaPacman (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x10A61C: CriaJogo (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x1093E9: main (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==  Block was alloc'd at
+==2330431==    at 0x4848899: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==2330431==    by 0x10D047: CriaPosicao (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x10B94A: ObtemPosicaoItemMapa (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x10A60C: CriaJogo (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431==    by 0x1093E9: main (in /home/raphael/pacman/PacManRevival/Resultados/Raphael/completo/prog)
+==2330431== 
+==2330431== 
+==2330431== HEAP SUMMARY:
+==2330431==     in use at exit: 0 bytes in 0 blocks
+==2330431==   total heap usage: 20,084 allocs, 20,084 frees, 201,865 bytes allocated
+==2330431== 
+==2330431== All heap blocks were freed -- no leaks are possible
+==2330431== 
+==2330431== For lists of detected and suppressed errors, rerun with: -s
+==2330431== ERROR SUMMARY: 2 errors from 2 contexts (suppressed: 0 from 0)

@@ -4,33 +4,33 @@
 #include <stdbool.h>
 #include "tPosicao.h"
 #include "tTunel.h"
-
-typedef struct tMapa{
-    /* Número de linhas e de colunas do mapa */
-    int nLinhas, nColunas;
-    /* Número atual de frutas no mapa */
-    int nFrutasAtual;
-    /* Número máximo permitido de movimentos do pacman no mapa */
-    int nMaximoMovimentos;
-    /* O grid (matriz) de informações do mapa */
-    char** grid;
-    /* O tunel do mapa contendo 2 acessos */
-    tTunel* tunel;
-} tMapa;
-
+#include "tMapa.h"
 
 /*
     Função Auxiliar
     Cria Inicializacao
 */
 
-void CriaInicializacao(tMapa* mapa, const char* caminhoConfig, tPosicao* pos){
+bool MapaExiste(tMapa* mapa) {
+    if (mapa != NULL) {
+        return true;
+    }
+    return false;
+}
+
+bool GridExiste(tMapa* mapa) {
+    if (mapa->grid != NULL) {
+        return true;
+    }
+    return false;
+}
+
+/*void CriaInicializacao(tMapa* mapa, const char* caminhoConfig, tPosicao* pos){
     FILE * pInicializacao;
     char saida[1000];
-    sprintf(saida, "%s/saida1/inicializacao.txt", caminhoConfig);
+    sprintf(saida, "%s/saida/inicializacao.txt", caminhoConfig);
     pInicializacao = fopen(saida, "w");
     if (pInicializacao == NULL) {
-        printf("Erro\n");
         exit(1);
     }
 
@@ -43,9 +43,20 @@ void CriaInicializacao(tMapa* mapa, const char* caminhoConfig, tPosicao* pos){
         fprintf(pInicializacao, "\n");
     }
 
-    fprintf(pInicializacao, "Pac-Man comecara o jogo na linha %d e coluna %d", pos->linha, pos->coluna);
+    fprintf(pInicializacao, "Pac-Man comecara o jogo na linha %d e coluna %d", pos->linha+1, pos->coluna+1);
     fclose(pInicializacao);
+    DesalocaPosicao(pos);
+
+    return;
+}*/
+
+tTunel* ObtemTunelMapa(tMapa* mapa){
+    if (mapa->tunel != NULL) {
+        return (mapa->tunel);
+    }
+    return NULL;
 }
+
 
 
 /**
@@ -53,63 +64,92 @@ void CriaInicializacao(tMapa* mapa, const char* caminhoConfig, tPosicao* pos){
  * \param caminho caminho do arquivo com as configurações do mapa
  */
 
-/*
-SEPARAR EM CRIA MAPA (ALOCAÇÃO), LE MAPA (RETORNA LINHAS E COLUNAS), CRIA INICIALIZACAO*/
-
 tMapa* CriaMapa(const char* caminhoConfig){
     char caminho_mapa[1000];
-
-    tMapa* mapa = (tMapa*)malloc(sizeof(tMapa));
-
     sprintf(caminho_mapa, "%s/mapa.txt", caminhoConfig);
+
     FILE * pMapa;
     pMapa = fopen(caminho_mapa, "r");
     if (!pMapa) {
         printf("ERRO: nao foi possível ler o arquivo %s ", caminho_mapa);
-        return mapa;
+        return NULL;
     }
 
-    fscanf(pMapa, "%d\n", mapa->nMaximoMovimentos);
-    int linhas = 0, colunas = 0, tam_primeira_linha = 0;
+    int nMaximoMovimentos = 0;
+    fscanf(pMapa, "%d\n", &nMaximoMovimentos);
+    int linhas = 0, colunas = 1;
+    fscanf(pMapa, "%*c\n");
     char item = '\0';
-    while ((fscanf(pMapa, "%c", &item)) != EOF) {
-        // PEGA TAMANHO DA 1° LINHA PARA POSICIONAR O CURSOR EM FSEEK
-        while (linhas == 0) {
-            tam_primeira_linha++;
-        }
+    while ((fscanf(pMapa, "%c", &item)) == 1) {
         if (item == '\n') {
             linhas++;
         }
-        colunas++;
+        if (linhas == 0) {
+            colunas++;
+        }
     }
-    colunas /= linhas;
+
+    fseek(pMapa, 0, SEEK_SET);
+    fscanf(pMapa, "%*d\n");
+
+    tMapa* mapa = (tMapa*)malloc(sizeof(tMapa));
+    mapa->nLinhas = linhas;
+    mapa->nColunas = colunas;
+    mapa->nFrutasAtual = 0; 
+    mapa->nMaximoMovimentos = nMaximoMovimentos;
+    mapa->tunel = NULL;
 
     mapa->grid = (char**)malloc(linhas * sizeof(char*));
     for (int i = 0; i < linhas; i++) {
         mapa->grid[i] = (char*)malloc(colunas * sizeof(char));
     }
-    mapa->nLinhas = linhas;
-    mapa->nColunas = colunas;
 
-    fseek(pMapa, tam_primeira_linha+1, SEEK_SET);
 
-    // LÊ MAPA DEFINITIVAMENTE
-    tPosicao* pos_inicial = CriaPosicao(0, 0);
     for (int i = 0; i < linhas; i++) {
         for (int j = 0; j < colunas; j++) {
-            fscanf(pMapa, "%c", mapa->grid[i][j]);
-            if (mapa->grid[i][j] == '>') {
-                AtualizaPosicao(pos_inicial, CriaPosicao(i, j));
-                printf("aqui: %d %d", pos_inicial->linha, pos_inicial->coluna);
+            fscanf(pMapa, "%c", &(mapa->grid[i][j]));
+
+            if (mapa->grid[i][j] == '*') {
+                mapa->nFrutasAtual++;
             }
         }
-        // ESPAÇO
         fscanf(pMapa, "%*c");
     }
+    fclose(pMapa);
 
-    CriaInicializacao(mapa, caminhoConfig, pos_inicial);
+    //mapa->tunel = ObtemTunelMapa(mapa);
+
+    int n_de_tuneis = 0;
+    tTunel* tunel = NULL; 
+    tPosicao* acesso1 = NULL;
+    tPosicao* acesso2 = NULL;
+
+
+    for (int i = 0; i < mapa->nLinhas; i++) {
+        for (int j = 0; j < mapa->nColunas; j++) {
+            if (mapa->grid[i][j] == '@') {
+                if (n_de_tuneis == 0) {
+                    acesso1 = CriaPosicao(i, j);
+                    n_de_tuneis++;
+                }
+                else if (n_de_tuneis == 1) {
+                        acesso2 = CriaPosicao(i, j);
+                }
+            }
+        }
+    }
+    if (n_de_tuneis == 0){
+        mapa->tunel = NULL;
+    }
+    else {
+        mapa->tunel = CriaTunel(ObtemLinhaPosicao(acesso1), ObtemColunaPosicao(acesso1), ObtemLinhaPosicao(acesso2), ObtemColunaPosicao(acesso2));
+        DesalocaPosicao(acesso1);
+        DesalocaPosicao(acesso2);
+    }
+
     return mapa;
 }
+
 
 /**
  * Obtem a posição de um item do mapa
@@ -117,44 +157,28 @@ tMapa* CriaMapa(const char* caminhoConfig){
  * \param item item a ser procurado no mapa
  */
 tPosicao* ObtemPosicaoItemMapa(tMapa* mapa, char item){
-    if (!(MapaExiste(mapa) && GridExiste(mapa))){
-        return false;
+    if (!(MapaExiste(mapa)) || !(GridExiste(mapa))){
+        return NULL;
     }
     for (int i = 0; i < mapa->nLinhas; i++) {
         for (int j = 0; j < mapa->nColunas; j++) {
             if (mapa->grid[i][j] == item) {
-                return CriaPosicao(i, j);
+                tPosicao* pos = CriaPosicao(i, j);
+                if (pos == NULL) {
+                    return NULL;
+                }
+                return pos;
             }
         }
     }
+    return NULL;
 }
 
 /**
  * Retorna o túnel do mapa com os 2 acessos
  * \param mapa mapa
  */
-tTunel* ObtemTunelMapa(tMapa* mapa){
-    int n_de_tuneis = 0;
-    tTunel* tunel;
-    if ((MapaExiste(mapa) && GridExiste(mapa))){
-        for (int i = 0; i < mapa->nLinhas; i++) {
-            for (int j = 0; j < mapa->nColunas; j++) {
-                if (mapa->grid[i][j] == '@') {
-                    if (n_de_tuneis == 0) {
-                        tPosicao* acesso = CriaPosicao(i,j);
-                        tunel->acesso1 = acesso;
-                        n_de_tuneis++;
-                    }
-                    else if (n_de_tuneis == 1) {
-                        tPosicao* acesso = CriaPosicao(i,j);
-                        tunel->acesso2 = acesso;
-                        return tunel;
-                    }
-                }
-            }
-        }
-    }
-}
+
 
 /**
  * Obtem o item do mapa dada a posição
@@ -164,11 +188,11 @@ tTunel* ObtemTunelMapa(tMapa* mapa){
 char ObtemItemMapa(tMapa* mapa, tPosicao* posicao){
     if ((MapaExiste(mapa) && GridExiste(mapa))){
         int pos_x = ObtemColunaPosicao(posicao), pos_y = ObtemLinhaPosicao(posicao);
-        if ((pos_x <= mapa->nColunas) && (pos_y <= mapa->nLinhas)) {
+        if ((pos_x < mapa->nColunas) && (pos_y < mapa->nLinhas)) {
             return mapa->grid[pos_y][pos_x];
         }
-        return '\0';
     }
+    return '\0';
 }
 
 /**
@@ -176,10 +200,10 @@ char ObtemItemMapa(tMapa* mapa, tPosicao* posicao){
  * \param mapa mapa
  */
 int ObtemNumeroLinhasMapa(tMapa* mapa){
-    if (!(MapaExiste(mapa) && GridExiste(mapa))){
+    if ((MapaExiste(mapa) && GridExiste(mapa))){
         return (mapa->nLinhas);
     }
-    
+    return 0;
 }
 
 /**
@@ -187,9 +211,10 @@ int ObtemNumeroLinhasMapa(tMapa* mapa){
  * \param mapa mapa
  */
 int ObtemNumeroColunasMapa(tMapa* mapa){
-    if (!(MapaExiste(mapa) && GridExiste(mapa))){
+    if ((MapaExiste(mapa) && GridExiste(mapa))){
         return (mapa->nColunas);
     }
+    return 0;
 }
 
 /**
@@ -197,9 +222,10 @@ int ObtemNumeroColunasMapa(tMapa* mapa){
  * \param mapa mapa
  */
 int ObtemQuantidadeFrutasIniciaisMapa(tMapa* mapa){
-    if (!(MapaExiste(mapa) && GridExiste(mapa))){
+    if ((MapaExiste(mapa) && GridExiste(mapa))){
         return (mapa->nFrutasAtual);
     }
+    return 0;
 }
 
 /**
@@ -207,9 +233,10 @@ int ObtemQuantidadeFrutasIniciaisMapa(tMapa* mapa){
  * \param mapa mapa
  */
 int ObtemNumeroMaximoMovimentosMapa(tMapa* mapa){
-    if (!(MapaExiste(mapa) && GridExiste(mapa))){
-        return (mapa->nFrutasAtual);
+    if ((MapaExiste(mapa) && GridExiste(mapa))){
+        return (mapa->nMaximoMovimentos);
     }
+    return 0;
 }
 
 /**
@@ -245,34 +272,31 @@ bool EncontrouParedeMapa(tMapa* mapa, tPosicao* posicao){
  * \param posicao posicao do item
  * \param item posicao item que vai atualizar o mapa
  */
-void AtualizaItemMapa(tMapa* mapa, tPosicao* posicao, char item){
-    if (!(MapaExiste(mapa) && GridExiste(mapa))){
-        return;
-    }
-    int pos_x = ObtemColunaPosicao(posicao), pos_y = ObtemLinhaPosicao(posicao);
-    if ((pos_x <= mapa->nColunas) && (pos_y <= mapa->nLinhas)) {
-        mapa->grid[pos_y][pos_x] = item;
-    }
-    return;
-}
-
-/**
- * Verifica se o mapa possui tunel ou não
- * \param mapa mapa
- */
-bool PossuiTunelMapa(tMapa* mapa){
+bool AtualizaItemMapa(tMapa* mapa, tPosicao* posicao, char item){
     if (!(MapaExiste(mapa) && GridExiste(mapa))){
         return false;
     }
-    for (int i = 0; i < mapa->nLinhas; i++) {
-        for (int j = 0; j < mapa->nColunas; j++) {
-            if (mapa->grid[i][j] == "@") {
-                return true;
-            }
-        }
+    int pos_x = ObtemColunaPosicao(posicao), pos_y = ObtemLinhaPosicao(posicao);
+    if ((pos_x < mapa->nColunas) && (pos_y < mapa->nLinhas)) {
+        mapa->grid[pos_y][pos_x] = item;
+        return true;
     }
     return false;
 }
+
+/**
+ * Verifica se o mapa possui tunel ou não.
+ * Caso o campo tunel seja NULL retorna falso.
+ * Caso contrário retorna verdadeiro.
+ * \param mapa mapa
+ */
+bool PossuiTunelMapa(tMapa* mapa){
+    if (mapa->tunel == NULL) {
+        return false;
+    }
+    return true;
+}
+
 
 /**
  * Retorna se o tunel foi acessado ou não
@@ -280,24 +304,23 @@ bool PossuiTunelMapa(tMapa* mapa){
  * \param posicao posicao a ser verificada
  */
 bool AcessouTunelMapa(tMapa* mapa, tPosicao* posicao){
-    if (ObtemItemMapa(mapa, posicao) == "@"){
+    if (EntrouTunel(mapa->tunel, posicao)){
         return true;
     }
     return false;
 }
 
 /**
- * Entra no túnel do mapa.
+ * Apenas chama a função LevaFinalTunel na estrutura tTunel.h
  * \param mapa mapa
  * \param posicao posicao que vai entrar no túnel
  */
 void EntraTunelMapa(tMapa* mapa, tPosicao* posicao){
-    tTunel* tunel = ObtemTunelMapa(mapa);
-    if (AcessouTunelMapa(mapa, tunel->acesso1)) {
-        AtualizaPosicao(posicao, tunel->acesso2);
-    }
-    else if (AcessouTunelMapa(mapa, tunel->acesso2)) {
-        AtualizaPosicao(posicao, tunel->acesso1);
+    if (mapa->tunel != NULL){
+        if (EntrouTunel(mapa->tunel, posicao)) {
+            LevaFinalTunel(mapa->tunel, posicao);
+        }
+        
     }
     return;
 }
@@ -307,17 +330,24 @@ void EntraTunelMapa(tMapa* mapa, tPosicao* posicao){
  * \param mapa mapa
  */
 void DesalocaMapa(tMapa* mapa){
-    if (MapaExiste(mapa)) {
-        DesalocaTunel(mapa->tunel);
-        free(mapa);
+    if (!MapaExiste(mapa)) {
+        return;
     }
+
+    if (GridExiste(mapa)) {
+        for (int i = 0; i < mapa->nLinhas; i++) {
+            free(mapa->grid[i]);
+            mapa->grid[i] = NULL;
+        }
+        free(mapa->grid);
+        mapa->grid = NULL;
+    }
+
+    if (mapa->tunel != NULL){
+        DesalocaTunel(mapa->tunel);
+        mapa->tunel = NULL;
+    }
+
+    free(mapa);
     return;
-}
-
-bool MapaExiste(tMapa* mapa) {
-    return (mapa != NULL);
-}
-
-bool GridExiste(tMapa* mapa) {
-    return (mapa->grid != NULL);
 }

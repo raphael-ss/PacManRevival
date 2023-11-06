@@ -1,0 +1,62 @@
+Movimento 1 (w) pegou comida
+Movimento 2 (d) pegou comida
+Movimento 4 (d) pegou comida
+Movimento 8 (d) pegou comida
+Movimento 11 (w) pegou comida
+Movimento 15 (d) pegou comida
+Movimento 17 (a) pegou comida
+Movimento 22 (d) pegou comida
+Movimento 25 (s) pegou comida
+Movimento 28 (a) pegou comida
+Movimento 30 (d) pegou comida
+Movimento 33 (a) pegou comida
+Movimento 38 (a) pegou comida
+Movimento 41 (s) pegou comida
+Movimento 48 (a) pegou comida
+Movimento 53 (a) pegou comida
+Movimento 56 (a) pegou comida
+Movimento 57 (a) pegou comida
+Movimento 60 (a) pegou comida
+Movimento 61 (s) pegou comida
+Movimento 63 (w) pegou comida
+Movimento 65 (a) pegou comida
+Movimento 67 (d) pegou comida
+Movimento 69 (w) pegou comida
+Movimento 71 (d) pegou comida
+Movimento 72 (w) pegou comida
+Movimento 79 (a) pegou comida
+Movimento 81 (a) pegou comida
+Movimento 82 (s) pegou comida
+Movimento 88 (w) pegou comida
+Movimento 96 (a) pegou comida
+Movimento 99 (d) pegou comida
+Movimento 100 (d) pegou comida
+Movimento 104 (d) pegou comida
+Movimento 108 (d) colidiu com a parede
+Movimento 109 (d) colidiu com a parede
+Movimento 110 (d) colidiu com a parede
+Movimento 111 (d) colidiu com a parede
+Movimento 112 (d) colidiu com a parede
+Movimento 113 (d) colidiu com a parede
+Movimento 114 (d) colidiu com a parede
+Movimento 115 (d) colidiu com a parede
+Movimento 116 (d) colidiu com a parede
+Movimento 117 (d) colidiu com a parede
+Movimento 118 (d) colidiu com a parede
+Movimento 119 (d) colidiu com a parede
+Movimento 120 (d) colidiu com a parede
+Movimento 121 (d) colidiu com a parede
+Movimento 122 (d) colidiu com a parede
+Movimento 123 (d) colidiu com a parede
+Movimento 124 (d) colidiu com a parede
+Movimento 125 (d) colidiu com a parede
+Movimento 126 (d) colidiu com a parede
+Movimento 127 (d) colidiu com a parede
+Movimento 128 (d) colidiu com a parede
+Movimento 129 (d) colidiu com a parede
+Movimento 130 (d) colidiu com a parede
+Movimento 131 (d) colidiu com a parede
+Movimento 132 (d) colidiu com a parede
+Movimento 133 (d) colidiu com a parede
+Movimento 134 (d) colidiu com a parede
+Movimento 134 (d) fim de jogo por encostar em um fantasma

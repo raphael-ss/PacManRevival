@@ -1,6 +1,10 @@
 #ifndef TPACMAN_H_
 #define TPACMAN_H_
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdbool.h>
 #include "tPosicao.h"
 #include "tMovimento.h"
 #include "tMapa.h"

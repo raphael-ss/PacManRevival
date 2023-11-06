@@ -20,8 +20,11 @@ tPosicao* CriaPosicao(int linha, int coluna) {
  * \param posicao posição
  */
 tPosicao* ClonaPosicao(tPosicao* posicao) {
-    tPosicao* clone = CriaPosicao(posicao->linha, posicao->coluna);
-    return clone;
+    if (posicao != NULL) {
+        tPosicao* clone = CriaPosicao(posicao->linha, posicao->coluna);
+        return clone;
+    }
+    return NULL;
 }
 
 /**
@@ -29,7 +32,10 @@ tPosicao* ClonaPosicao(tPosicao* posicao) {
  * \param posicao posição
  */
 int ObtemLinhaPosicao(tPosicao* posicao) {
-    return (posicao->linha);
+    if (posicao != NULL) {
+        return (posicao->linha);    
+    }
+    return 0;
 }
 
 /**
@@ -37,7 +43,10 @@ int ObtemLinhaPosicao(tPosicao* posicao) {
  * \param posicao posição
  */
 int ObtemColunaPosicao(tPosicao* posicao){
-    return (posicao->coluna);
+    if (posicao != NULL) {
+        return (posicao->coluna);    
+    }
+    return 0;
 }
 
 /**
@@ -46,7 +55,9 @@ int ObtemColunaPosicao(tPosicao* posicao){
  * \param posicaoNova posição nova
  */
 void AtualizaPosicao(tPosicao* posicaoAtual, tPosicao* posicaoNova){
-    *posicaoAtual = *posicaoNova;
+    if (posicaoAtual != NULL && posicaoNova != NULL) {
+        *posicaoAtual = *posicaoNova;
+    }
     return;
 }
 
@@ -68,8 +79,13 @@ bool SaoIguaisPosicao(tPosicao* posicao1, tPosicao* posicao2) {
  * \param posicao posicao
  */
 void DesalocaPosicao(tPosicao* posicao) {
-    free(posicao);
+    if (posicao != NULL) {
+        free(posicao);
+        posicao = NULL;
+    }
+    return;
 }
+
 
 
 

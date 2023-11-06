@@ -41,9 +41,7 @@ void LevaFinalTunel(tTunel* tunel, tPosicao* posicao){
     else if (SaoIguaisPosicao(tunel->acesso2,posicao)) {
         AtualizaPosicao(posicao, tunel->acesso1);
     }
-    else {
-        printf("mayhem");
-    }
+
     return;
 }
 
@@ -52,12 +50,15 @@ void LevaFinalTunel(tTunel* tunel, tPosicao* posicao){
  * 
  * \param tunel tunel
  */
-void DesalocaTunel(tTunel* tunel){
+void DesalocaTunel(tTunel* tunel) {
     if (tunel != NULL) {
-        DesalocaPosicao(tunel->acesso1);
-        DesalocaPosicao(tunel->acesso2);
+        if (tunel->acesso1 != NULL) {
+            DesalocaPosicao(tunel->acesso1);
+        }
+        if (tunel->acesso2 != NULL) {
+            DesalocaPosicao(tunel->acesso2);
+        }
         free(tunel);
     }
-    return;
 }
 

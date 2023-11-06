@@ -1,15 +1,15 @@
-==190095== Memcheck, a memory error detector
-==190095== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
-==190095== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
-==190095== Command: Resultados/Raphael/tMovimento/prog Resultados/Raphael/tMovimento/Casos/14
-==190095== Parent PID: 190094
-==190095== 
-==190095== 
-==190095== HEAP SUMMARY:
-==190095==     in use at exit: 0 bytes in 0 blocks
-==190095==   total heap usage: 38,525 allocs, 38,525 frees, 373,409 bytes allocated
-==190095== 
-==190095== All heap blocks were freed -- no leaks are possible
-==190095== 
-==190095== For lists of detected and suppressed errors, rerun with: -s
-==190095== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==2306691== Memcheck, a memory error detector
+==2306691== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==2306691== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==2306691== Command: Resultados/Raphael/tMovimento/prog Resultados/Raphael/tMovimento/Casos/14
+==2306691== Parent PID: 2306690
+==2306691== 
+==2306691== 
+==2306691== HEAP SUMMARY:
+==2306691==     in use at exit: 0 bytes in 0 blocks
+==2306691==   total heap usage: 38,525 allocs, 38,525 frees, 373,409 bytes allocated
+==2306691== 
+==2306691== All heap blocks were freed -- no leaks are possible
+==2306691== 
+==2306691== For lists of detected and suppressed errors, rerun with: -s
+==2306691== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
